@@ -1,3 +1,3 @@
 # GCP
 
-Comming soon.
+Coming soon.
